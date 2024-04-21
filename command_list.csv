@@ -1,0 +1,16 @@
+  212  git status
+  213  git commit -m "First commit"
+  214  touch main_test.txt
+  215  git add main_test.txt
+  216  git status
+  217  git commit -m "Second commit"
+  218  git branch
+  219  git checkout -b develop
+  220  touch develop_test.txt
+  221  git status
+  222  git add develop_test.txt
+  223  git status
+  224  git commit -m "Third"
+  225  git checkout main
+  226  git merge develop
+  227  git log
