@@ -1,0 +1,276 @@
+    1  sudo nvram AutoBoot=%00
+    2  sudo nvram AutoBoot =% 00
+    3  sudo nvram AutoBoot=%00
+    4  /Volumes/Untitled/MISC/card ; exit;
+    5  AutoBoot=%00
+    6  572797
+    7  572797
+    8  /Volumes/Photoshop\ 23.5.1\ U2B\ INSTALLER\ \[RiD\]/Install.app/Contents/MacOS/Install ; exit;
+    9  git -version
+   10  git --version
+   11  cd Desktop
+   12  cd ../
+   13  cd [200~/Users/mariia/Desktop/QA\ 35 ~
+   14   cd /Users/mariia/Desktop/QA\ 35 
+   15  clear
+   16  pwd
+   17  cd Desktop
+   18  cd /Users/mariia/Desktop/QA35 
+   19  pwd
+   20  ls -l
+   21  touch test.txt
+   22  ls -l
+   23    clear
+   24  vim test.txt
+   25  cat text.txt
+   26  cat text.txt
+   27  vim text.txt
+   28  cat test.txt
+   29  cat tast.txt
+   30  clear
+   31  mkdir Mariia
+   32  ls -l
+   33  cp test.txt Mariia/
+   34  ls-l
+   35  ls -l
+   36   cd Mariia
+   37  ls -l
+   38    rm test.txt
+   39  ls -l
+   40  clear
+   41  ping doogle.com
+   42  date
+   43  sistem_profiler
+   44  system_profiler
+   45  clear
+   46  ls -l
+   47  cd 
+   48  cd ../
+   49  cd ../
+   50  cd 
+   51  cd /Users/mariia/Desktop/QA35 
+   52  ls -l
+   53  chmod 444 test.txt
+   54  ls -l
+   55  clear
+   56  cd /Users/mariia/Desktop/QA35 
+   57  git clone ^[[200~https://github.com/Mariia-999/GitQA35.git~https://github.com/Mariia-999/GitQA35.git clear
+   58  git clone https://github.com/Mariia-999/GitQA35.git
+   59  cd GidQA35
+   60  git config --global user.name "Mariia Rymaryshyna"
+   61  git config --global user.email "inspirationn999@gmail.com"
+   62  touch file.txt
+   63  ls -l
+   64  git status
+   65  git status
+   66  git add file.txt
+   67  git status
+   68  clear
+   69  clear
+   70  clear
+   71  ls -l
+   72  clean
+   73  clear
+   74  cd /Users/mariia/Desktop/QA35 
+   75  git status
+   76  touch file.txt
+   77  ls -l
+   78  git status
+   79  git add file.txt
+   80  git GitQA35
+   81  git clone https://github.com/Mariia-999/GitQA35.git
+   82  cd GitQA35
+   83  git confid --global user.name "Mariia Rymaryshyna"
+   84  gid config --global user.name "Mariia Rymaryshyna"
+   85  clear
+   86  clear
+   87  clear
+   88  touch file.txt
+   89  touch file.txt
+   90  ls -l
+   91  git status
+   92  git add file.txt
+   93  git status
+   94  dit commit -m "First commit"
+   95  git commit -m "First commit"
+   96  git push
+   97  git status
+   98  git add file.txt
+   99  clear
+  100  cd GitQA35
+  101  cd /Users/mariia/Desktop/QA35 
+  102  git clonehttps://github.com/Mariia-999/GitQA35.git
+  103  git clone https://github.com/Mariia-999/GitQA35.git 
+  104  git config --global user.name "Mariia Rymaryshyna"
+  105  git config --global user.email "inspirationn999@gmail.com"
+  106  git status
+  107  touch file.txt
+  108  touch file.txt
+  109  cd /Users/mariia/Desktop/QA35/GitQA35/file.txt 
+  110  git status 
+  111  git status
+  112  cd /Users/mariia/Desktop/QA35/GitQA35 
+  113  git status
+  114  git add file.txt
+  115  git status
+  116  touch file.txt
+  117  git status
+  118  git add file.txt
+  119  git status
+  120  git config --global user.name "Mariia Rymaryshyna"
+  121  git config --global user.email "inspirationn999@gmail.com"
+  122  git push
+  123   M@mo4ka4
+  124  Password
+  125  git config --global user.name "Mariia-999"
+  126  git config --global user.email "inspirationn999@gmail.com"
+  127  git status
+  128  git add file.txt
+  129  cd GitQA35
+  130  git config --global user.name "Mariia-999"
+  131  git config --global user.email "inspirationn999@gmail.com"
+  132  touch file.txt
+  133  git status
+  134  touch file.txt
+  135  git add file.txt
+  136  git status
+  137  git commit -m"First commit"
+  138  git commit -m "First commit"
+  139  git push
+  140  git push
+  141  git push
+  142  cd GitQA35
+  143  git clone https://github.com/Mariia-999/GitQA35.git
+  144  cd GitQA35
+  145  git config --global user.name "Mariia-999"
+  146  git config --global user.email "inspirationn999@gmail.com"
+  147  touch file.txt
+  148  git ststus
+  149  touch file.txt
+  150  touch file.txt 
+  151  touch file.txt
+  152  git status 
+  153   git add file.txt
+  154  git status
+  155  git commit -m"First name"
+  156  git push
+  157  cd GitQA35
+  158  git config --global user.name "Mariia-999"
+  159  git config --global user.email "inspirationn999@gmail.com"
+  160  touch file.txt
+  161  touch file1.txt
+  162  git status
+  163  git add file1.txt
+  164  git status
+  165  git commit -m "First commit"
+  166  git push
+  167  git push
+  168  git push
+  169  git branch
+  170  git checkout -b test
+  171  git branch
+  172  touch test.txt
+  173  ls -l
+  174  git status
+  175  git add test.txt
+  176  git status
+  177  git commit -m "Second commit"
+  178  git push git checkout main
+  179  git checkout main
+  180  git commit -m "Second commit" clear
+  181  clean
+  182  clear
+  183  git checkout main
+  184  git push
+  185  git push
+  186  git branch
+  187  git checkout -b tast
+  188  touch test.txt
+  189  git checkout main
+  190  git merge test
+  191  git merge test
+  192  git push
+  193  git checkout -b test
+  194  git branch
+  195  git merge test
+  196  git merge tast
+  197  ls -l
+  198  git merge tast
+  199  rm tast.txt
+  200  cd des
+  201  cd /Users/mariia/Desktop/HW_QA35 
+  202  git clone https://github.com/Mariia-999/HW_10.git
+  203  cd GitHW_10
+  204  cd Git HW_1-
+  205  cd Git HW_10
+  206  clear
+  207  cd HW_10
+  208  touch text_ignore.txt
+  209  vim text_ignore.txt
+  210  git status
+  211  git add text_ignore.txt
+  212  git status
+  213  git commit -m "First commit"
+  214  touch main_test.txt
+  215  git add main_test.txt
+  216  git status
+  217  git commit -m "Second commit"
+  218  git branch
+  219  git checkout -b develop
+  220  touch develop_test.txt
+  221  git status
+  222  git add develop_test.txt
+  223  git status
+  224  git commit -m "Third"
+  225  git checkout main
+  226  git merge develop
+  227  git log
+  228  history > command_list.csv
+  229  git add .
+  230  git commit -m "Fourth commit"
+  231   git push
+  232  vim .gitignore
+  233  git status
+  234  git add text ignore.txt
+  235  git commit -m "First commit"
+  236  vim develop_test.txt
+  237  git status
+  238  git add develop_test.txt
+  239  git status
+  240  git commit -m "Third"
+  241  git add
+  242  git commit -m "Thirt"
+  243  git push
+  244  vim .gitignore
+  245  git status
+  246  git commit -m "First commit"
+  247  git push
+  248  vim . gitignore
+  249  cd /Users/mariia/Desktop/HW_QA35 
+  250  vim .gitignore
+  251  git status
+  252  git status
+  253  vim .gitignore
+  254  cd /Users/mariia/Desktop/HW_QA35 
+  255  vim .gitignore
+  256  cd /Users/mariia/Desktop/HW_QA35 
+  257  git status
+  258  git add .gitignore
+  259  git push
+  260  cd /Users/mariia/Desktop/HW_QA35 
+  261  git commit -m "First commit"
+  262  git push
+  263  vim .gitignore
+  264  cd /Users/mariia/Desktop/HW_QA35 
+  265  git status
+  266  vim .gitignore
+  267  cd /Users/mariia/Desktop/HW_QA35 
+  268  git status
+  269  git add .gitignore
+  270  git status
+  271  ls-l
+  272  cd /Users/mariia/Desktop/HW_QA35 
+  273  vim .gitignore
+  274  git status
+  275  cd HW_10
+  276  echo text_ignore.txt > .gitignore
